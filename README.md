@@ -9,19 +9,19 @@ access point name and password
 APSSID "WiFi-Settings"   
 APPSK  "settings"  
    
-![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/main/Images/Screenshot_20210917-1.jpg)   
+![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/images/Screenshot_20210917-1.jpg)   
    
 wifi router selection  
   
-![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/main/Images/Screenshot_20210917-2.jpg)  
+![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/images/Screenshot_20210917-2.jpg)  
   
    
 # Color  
-![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/main/Images/Screenshot_20210917-3.jpg)   
+![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/images/Screenshot_20210917-3.jpg)   
    
 # Error   
-![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/main/Images/Screenshot_20210917-4.jpg)  
-![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/main/Images/Screenshot_20210918.jpg)  
+![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/images/Screenshot_20210917-4.jpg)  
+![Image alt](https://raw.githubusercontent.com/IgnatikovAM/CameraLightRGBW/images/Screenshot_20210918.jpg)  
 # authors   
 by.IgnatikovAM 
 by.TheAxial  
